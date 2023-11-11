@@ -3,6 +3,7 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 
 ## Ecosystem
 - [Ethereum](https://ethereum.org/en/)
+- [Ethereum Foundation Blog](https://blog.ethereum.org/)
 - [Ethereum Research](https://ethresear.ch/)
 - [Ethereum Improvement Proposals](https://eips.ethereum.org/)
 - [Ethereum Ecosystem Support Program](https://esp.ethereum.foundation/)
@@ -25,6 +26,7 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 - [Infura](https://www.infura.io/)
     - [Blog](https://www.infura.io/blog)
 - [ClientDiversity](https://clientdiversity.org/)
+- [Verkle Tries Overview](https://efdn.notion.site/efdn/Verkle-Tries-Overview-old-bf5391f9b3c949fdb375b0ec6a108a25)
 
 ### Tutorials, Bootcamps, & Hackathons
 - [ConsenSys Developer Platform](https://consensys.net/developers/)
@@ -46,8 +48,12 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 ### Tools
 - [solhint](https://protofire.github.io/solhint/)
 - [dapp.tools](https://dapp.tools/)
+- [Data Representation in Solidity](https://ethdebug.github.io/solidity-data-representation/?utm_source=substack&utm_medium=email)
 
 ### General Resources
+- [Vitalik Buterin's Blog](https://vitalik.ca/)
+    - [_An Incomplete Guide to Rollups_](https://vitalik.ca/general/2021/01/05/rollup.html)
+    - [_What Kind of Layer 3s Make Sense?_](https://vitalik.ca/general/2022/09/17/layer_3.html)
 - [KnowEthereum](https://knowethereum.com/)
 - [ConsenSys Diligence](https://consensys.io/diligence/)
     - [Blog](https://consensys.io/diligence/blog/)
@@ -55,6 +61,11 @@ A growing library of valuable resources for devs looking to expand their Ethereu
     - [_How to Avoid Uploading Your Private Key to GitHub: Approaches to Prevent Making Your Secrets Public_](https://consensys.io/blog/how-to-avoid-uploading-your-private-key-to-github-approaches-to-prevent-making-your-secrets-public)
 - [Alchemy](https://www.alchemy.com/)
     - [Blog](https://alchemy.com/blog)
+    - _You Could Have Invented Account Abstraction_
+        - [One](https://alchemy.com/blog/account-abstraction)
+        - [Two](https://alchemy.com/blog/account-abstraction-paymasters)
+        - [Three](https://alchemy.com/blog/account-abstraction-wallet-creation)
+        - [Four](https://alchemy.com/blog/account-abstraction-aggregate-signatures)
 - [Chainlink Labs - Developer Hub](https://dev.chain.link/)
 - [_The Complete Guide to Full Stack Ethereum and EVM Development_](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
@@ -104,11 +115,40 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 - korpi's [Notion](https://korpi.notion.site/korpi/Welcome-to-korpi-s-Notion-1348cb721ffd4d8f924390b6b0e3375c)
 - Halborn's [Blog](https://www.halborn.com/blog)
 - [DeFi Hacks Analysis - Root Cause](https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee)
+- [Bluechip](https://bluechip.org/)
+- [Nascent](https://www.nascent.xyz/)
+    - [_Why DeFi is Broken and How to Fix It, Pt 1: Oracle-Free Protocols_](https://www.nascent.xyz/idea/why-defi-is-broken-and-how-to-fix-it-pt-1-oracle-free-protocols)
+    - [_You're writing Require Statements Wrong_](https://www.nascent.xyz/idea/youre-writing-require-statements-wrong)
+- [RugDoc](https://rugdoc.io/)
+- Easy There Entropy
+    - [_Understanding The Ethereum Trie_](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/#comments)
+- Polygon Labs' [_TheValueProp_](https://thevalueprop.io/)
+- [Smart Contract Research Forum](https://www.smartcontractresearch.org/)
+- [The Red Guild](https://blog.theredguild.org/)
+- [NFT Calendar](https://nftcalendar.io/)
+- [Flashbots Transperancy Dashboard](https://transparency.flashbots.net/)
+- Blockonomi's [_What is Nakamoto Consensus? Complete Beginner’s Guide_](https://blockonomi.com/nakamoto-consensus/)
+- [Uniswap V3 Development Book](https://uniswapv3book.com/)
+- [_Flashbots: Frontrunning The MEV Crisis_](https://ethresear.ch/t/flashbots-frontrunning-the-mev-crisis/8251)
+- [NFT Price Floor](https://nftpricefloor.com/)
+- 1inch's [_Permit2 Signed Token Approvals - and How They Work on 1inch_](https://help.1inch.io/en/articles/5435386-permit2-signed-token-approvals-and-how-they-work-on-1inch)
+- [Blocknative](https://www.blocknative.com/) Blog:
+    - [_The Importance of Client Diversity on Ethereum_](https://www.blocknative.com/blog/ethereum-client-diversity#11)
+    - [_Ethereum Block Building_](https://www.blocknative.com/blog/ethereum-block-building)
+    - [_What is Proposer/Builder Separation on Ethereum?_](https://www.blocknative.com/blog/proposer-builder-separation-ethereum)
+- Crypto Adventure's [_Sleep Minting – A Guide to a Potential Threat for the NFT Market_](https://cryptoadventure.com/sleep-minting-a-guide-to-a-potential-threat-for-the-nft-market/)
+- [_Merkling in Ethereum_](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum)
+- [soliditydeveloper](https://soliditydeveloper.com/)
+    - [_The Ultimate Merkle Tree Guide in Solidity_](https://soliditydeveloper.com/merkle-tree)
+    - [_Utilizing Bitmaps to dramatically save on Gas_](https://soliditydeveloper.com/bitmaps)
+- HiddenTao's [_Using bitmaps for efficient Solidity smart contracts_](https://hiddentao.com/archives/2018/12/10/using-bitmaps-for-efficient-solidity-smart-contracts)
+
 
 ### Audits
 - [code4rena](https://code4rena.com/)
 - [Immunefi](https://immunefi.com/)
 - [HackenProof](https://hackenproof.com/)
+- [Solodit](https://solodit.xyz/)
 
 #### Auditors
 - [Ventral Digital Blog](https://ventral.digital/)
@@ -119,6 +159,7 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 - [Tenderly](https://dashboard.tenderly.co/explorer)
 - [ethtx.info](https://ethtx.info/)
 - [Metasleuth](https://metasleuth.io/)
+- [Open Source Ethereum Explorer](https://beaconcha.in/)
 
 #### Misc.
 - [ETH Calldata Decoder](https://calldata-decoder.apoorv.xyz/)
@@ -129,6 +170,7 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 ## EVM
 - [Ethervm](https://ethervm.io/)
 - [evm.codes](https://www.evm.codes/)
+- [evm.storage](https://evm.storage/)
 - [_Curso de Manejo de la Ethereum Virtual Machine_](https://platzi.com/cursos/evm/) (Español)
 - [LearnEVM](https://learnevm.com/)
 - Deep Dive: The Path to Shadowy Super Coder Parts
@@ -143,9 +185,19 @@ A growing library of valuable resources for devs looking to expand their Ethereu
     2. [_Two: Merkle Tree and EThereum Objects_](https://www.lucassaldanha.com/ethereum-yellow-paper-walkthrough-2/)
     3. [_Three: Gas and Payment_](https://www.lucassaldanha.com/ethereum-yellow-paper-walkthrough-3-7-gas-and-payment/)
     4. [_Four: Transaction Execution_](https://www.lucassaldanha.com/transaction-execution-ethereum-yellow-paper-walkthrough-4-7/)
+- LeftAsExcercise's _Understanding the Ethereum Virtual Machine_:
+    1. [One](https://leftasexercise.com/2021/09/12/understanding-the-ethereum-virtual-machine-part-i/)
+    2. [Two](https://leftasexercise.com/2021/09/15/understanding-the-ethereum-virtual-machine-part-ii/)
+    3. [Three](https://leftasexercise.com/2021/09/19/q-understanding-the-ethereum-virtual-machine-part-iii/)
+- [The EVM Handbook](https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
+- [EVM From Scratch](https://www.evmfromscratch.com/)
+- [Paradigm](https://www.paradigm.xyz/) [Blog](https://www.paradigm.xyz/writing)
+    - [_Time, Slots, and the Ordering of Events in Ethereum Proof-of-Stake_](https://www.paradigm.xyz/2023/04/mev-boost-ethereum-consensus)
+- [In Your Storage](https://dacian.me/)
 
 ## Proof of Stake
 - [Serenity Design Rationale](https://notes.ethereum.org/@vbuterin/serenity_design_rationale)
+- [Upgrading Ethereum: The ETH2 Book](https://eth2book.info/)
 
 ## Books
 - [_Mastering Ethereum_](https://github.com/ethereumbook/ethereumbook) by Andreas M. Antonopoulos & Gavin Wood
@@ -173,3 +225,4 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 - [Jobs3](https://jobs3.io/)
 - [Remote Web3 Jobs](https://remote3.co/)
 - [useWeb3 Jobs](https://www.useweb3.xyz/jobs)
+- [CryptoDevHub](https://cryptodevhub.io/blockchain-developer-jobs)
