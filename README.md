@@ -39,6 +39,13 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 - [RareSkills](https://www.rareskills.io/)
     - [Blog](https://www.rareskills.io/blog)
 - [Smart Contract Hacking](https://smartcontractshacking.com/)
+- [SolidityATL](https://solidity-atl.kittlabs.io/)
+- [Wriggly](https://www.wriggly.io/)
+- [CryptoHack](https://cryptohack.org/) (Cryptography)
+
+### Tools
+- [solhint](https://protofire.github.io/solhint/)
+- [dapp.tools](https://dapp.tools/)
 
 ### General Resources
 - [KnowEthereum](https://knowethereum.com/)
@@ -86,11 +93,25 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 - [devpill.me](https://www.devpill.me/)
 - [SolidityFridays](https://www.solidityfridays.com/)
 - [ChainList](https://chainlist.org/)
+- Blockchain at Berkley's [_The 0 to 1 Guide for MEV_](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
+- Azuki's [_Introducing ERC721A: An Improved ERC721 Implementation_](https://www.azuki.com/erc721a)
+- De.Fi:
+    - [Audit Database](https://de.fi/audit-database)
+    - [REKT Database](https://de.fi/rekt-database)
+- ChainSec's [DeFi Hacks](https://chainsec.io/defi-hacks/)
+- [_Web3 Is Going Great_](https://web3isgoinggreat.com/)
+- [web3rekt](https://www.web3rekt.com/intro-new-users/)
+- korpi's [Notion](https://korpi.notion.site/korpi/Welcome-to-korpi-s-Notion-1348cb721ffd4d8f924390b6b0e3375c)
+- Halborn's [Blog](https://www.halborn.com/blog)
+- [DeFi Hacks Analysis - Root Cause](https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee)
 
 ### Audits
 - [code4rena](https://code4rena.com/)
 - [Immunefi](https://immunefi.com/)
 - [HackenProof](https://hackenproof.com/)
+
+#### Auditors
+- [Ventral Digital Blog](https://ventral.digital/)
 
 ### Explorers
 #### Transactions
@@ -117,6 +138,14 @@ A growing library of valuable resources for devs looking to expand their Ethereu
     4. [Four](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?s=r)
     5. [Five](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f)
     6. [Six](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e)
+- Lucas Saldanha's _Ethereum Yellow Paper Walkthrough_:
+    1. [_One: The Blockchain Paradigm_](https://www.lucassaldanha.com/ethereum-yellow-paper-walkthrough-1/)
+    2. [_Two: Merkle Tree and EThereum Objects_](https://www.lucassaldanha.com/ethereum-yellow-paper-walkthrough-2/)
+    3. [_Three: Gas and Payment_](https://www.lucassaldanha.com/ethereum-yellow-paper-walkthrough-3-7-gas-and-payment/)
+    4. [_Four: Transaction Execution_](https://www.lucassaldanha.com/transaction-execution-ethereum-yellow-paper-walkthrough-4-7/)
+
+## Proof of Stake
+- [Serenity Design Rationale](https://notes.ethereum.org/@vbuterin/serenity_design_rationale)
 
 ## Books
 - [_Mastering Ethereum_](https://github.com/ethereumbook/ethereumbook) by Andreas M. Antonopoulos & Gavin Wood
@@ -144,4 +173,3 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 - [Jobs3](https://jobs3.io/)
 - [Remote Web3 Jobs](https://remote3.co/)
 - [useWeb3 Jobs](https://www.useweb3.xyz/jobs)
-- 
