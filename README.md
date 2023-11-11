@@ -10,6 +10,9 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 ## Development
 ### Documentation
 - [Solidity](https://docs.soliditylang.org/en/latest/)
+    - [Solidity by Example](https://solidity-by-example.org/)
+- [Vyper](https://docs.vyperlang.org/en/latest/)
+    - [Vyper by Example](https://vyper-by-example.org/)
 - [ethers.js](https://docs.ethers.org/v6/)
 - [web3.js](https://web3js.readthedocs.io/en/v3.0.0-rc.5/)
 - [web3.py](https://web3py.readthedocs.io/en/latest/)
@@ -21,6 +24,7 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 ### Infrastructure
 - [Infura](https://www.infura.io/)
     - [Blog](https://www.infura.io/blog)
+- [ClientDiversity](https://clientdiversity.org/)
 
 ### Tutorials, Bootcamps, & Hackathons
 - [ConsenSys Developer Platform](https://consensys.net/developers/)
@@ -31,6 +35,10 @@ A growing library of valuable resources for devs looking to expand their Ethereu
 - [Web3Bridge](https://www.web3bridge.com/)
 - [BuidlGuidl](https://buidlguidl.com/)
 - [Eat The Blocks](https://eattheblocks.com/)
+- [Metana](https://metana.io/)
+- [RareSkills](https://www.rareskills.io/)
+    - [Blog](https://www.rareskills.io/blog)
+- [Smart Contract Hacking](https://smartcontractshacking.com/)
 
 ### General Resources
 - [KnowEthereum](https://knowethereum.com/)
@@ -38,6 +46,8 @@ A growing library of valuable resources for devs looking to expand their Ethereu
     - [Blog](https://consensys.io/diligence/blog/)
     - [_Smart Contract Security Best Practices_](https://consensys.github.io/smart-contract-best-practices/)
     - [_How to Avoid Uploading Your Private Key to GitHub: Approaches to Prevent Making Your Secrets Public_](https://consensys.io/blog/how-to-avoid-uploading-your-private-key-to-github-approaches-to-prevent-making-your-secrets-public)
+- [Alchemy](https://www.alchemy.com/)
+    - [Blog](https://alchemy.com/blog)
 - [Chainlink Labs - Developer Hub](https://dev.chain.link/)
 - [_The Complete Guide to Full Stack Ethereum and EVM Development_](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
@@ -48,6 +58,7 @@ A growing library of valuable resources for devs looking to expand their Ethereu
     - [Forum](https://forum.ethernautdao.io/)
 - [Trail of Bits](https://www.trailofbits.com/)
     - [Blog](https://blog.trailofbits.com/)
+    - [Building Secure Smart Contracts](https://secure-contracts.com/)
 - [CipherShasta](https://ciphershastra.com/index.html)
 - [samczsun](https://samczsun.com/)
     - [Vulnerability Research](https://samczsun.com/research/)
@@ -62,21 +73,75 @@ A growing library of valuable resources for devs looking to expand their Ethereu
             5. [Part V: Function Bodies](https://blog.openzeppelin.com/blog/deconstructing-a-solidity-contract-part-v-function-bodies-2d19d4bef8be)
             6. [Part VI: The Metadata Hash](https://blog.openzeppelin.com/blog/deconstructing-a-solidity-contract-part-vi-the-swarm-hash-70f069e22aef)
 - [yAcademy](https://yacademy.dev/)
+- Delphi Digital's [_The Hitchhiker's Guide to Ethereum_](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum/)
+- a16z's [_Web3 Security: Attack Types and Lessons Learned_](https://a16z.com/web3-security-attack-types-and-lessons-learned/)
+- Program The Blockchain's [_Understanding Ethereum Smart Contract Storage_](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
+- ethos.dev's [_The Beacon Chain Ethereum 2.0 Explainer You Need to Read First_](https://ethos.dev/beacon-chain)
+- [Ethereum Signature Database](https://www.4byte.directory/)
+- [ABI for Unverified Contracts](https://abi.w1nt3r.xyz/)
+- [Officer's Blog](https://officercia.mirror.xyz/)
+- [Smart Contract Weakness Classification](https://swcregistry.io/)
+- [NotOnlyOwner](https://www.notonlyowner.com/)
+- [useWeb3](https://www.useweb3.xyz/)
+- [devpill.me](https://www.devpill.me/)
+- [SolidityFridays](https://www.solidityfridays.com/)
+- [ChainList](https://chainlist.org/)
 
 ### Audits
 - [code4rena](https://code4rena.com/)
 - [Immunefi](https://immunefi.com/)
+- [HackenProof](https://hackenproof.com/)
 
 ### Explorers
 #### Transactions
 - [Phalcon](https://explorer.phalcon.xyz/)
 - [Tenderly](https://dashboard.tenderly.co/explorer)
 - [ethtx.info](https://ethtx.info/)
+- [Metasleuth](https://metasleuth.io/)
 
 #### Misc.
 - [ETH Calldata Decoder](https://calldata-decoder.apoorv.xyz/)
+- [Oko Contract Explorer](https://oko.palkeo.com/)
+- [ContractReader](https://www.contractreader.io/)
 
 
 ## EVM
 - [Ethervm](https://ethervm.io/)
 - [evm.codes](https://www.evm.codes/)
+- [_Curso de Manejo de la Ethereum Virtual Machine_](https://platzi.com/cursos/evm/) (Español)
+- [LearnEVM](https://learnevm.com/)
+- Deep Dive: The Path to Shadowy Super Coder Parts
+    1. [One](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy)
+    2. [Two](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b)
+    3. [Three](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?s=r)
+    4. [Four](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?s=r)
+    5. [Five](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f)
+    6. [Six](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e)
+
+## Books
+- [_Mastering Ethereum_](https://github.com/ethereumbook/ethereumbook) by Andreas M. Antonopoulos & Gavin Wood
+
+## Job Sites
+- [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
+- [ConsenSys Open Roles](https://consensys.io/open-roles)
+- [CryptoJobsList](https://cryptojobslist.com/)
+- [CryptoJobs](https://crypto.jobs/)
+- [Blockchain Job Board](https://www.blockchainjobboard.org/)
+- [Blockew](https://blockew.com/)
+- [Proof of Talent](https://proofoftalent.co/home/crypto-recruiters)
+- [Blockchain Headhunter](https://blockchainheadhunter.com/)
+- [ZK Jobs Board](https://jobsboard.zeroknowledge.fm/)
+- [LaborX](https://laborx.com/)
+- [Bankless Job Board](https://bankless.pallet.com/jobs)
+- [Crypto Recruit](https://www.cryptorecruit.com/)
+- [Web3 Jobs](https://web3.career/)
+- [Crypto Job Zone](https://cryptojobzone.com/)
+- [DegenCryptoJobs](https://degencryptojobs.com/)
+- [Crypto Careers](https://www.crypto-careers.com/)
+- [Outlier Ventures Job Board](https://jobs.outlierventures.io/jobs)
+- [Paradigm Opportunities](https://www.paradigm.xyz/opportunities)
+- [Digital Currency Group Job Board](https://jobs.dcg.co/companies)
+- [Jobs3](https://jobs3.io/)
+- [Remote Web3 Jobs](https://remote3.co/)
+- [useWeb3 Jobs](https://www.useweb3.xyz/jobs)
+- 
